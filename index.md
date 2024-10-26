@@ -1,3 +1,4 @@
 ## Welcome to DOTADev
 
-You can find my games and apps.
+- [3D Car Parking - Night Privacy Policy](carparking_privacy.html)
+- [Altigen Puzzle Privacy Policy](altigenpuzzle_privacy.html)
