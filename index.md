@@ -5,3 +5,4 @@
 - [RPG World 2D Privacy Policy](rpgworld2d_privacy.html)
 - [Transfer Soylentileri Privacy Policy](transfersoylentileri_privacy.html)
 - [KPSS Genel Kultur Privacy Policy](kpssgenelkultur_privacy.html)
+- [Offline Chess 2D](offlinechess2d_privacy.html)
