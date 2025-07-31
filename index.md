@@ -7,3 +7,4 @@
 - [KPSS Genel Kultur Privacy Policy](kpssgenelkultur_privacy.html)
 - [Offline Chess 2D](offlinechess2d_privacy.html)
 - [ÇözümCam Privacy Policy](cozumcam_privacy.html)
+- [EzLang Privacy Policy](ezlang_privacy.html)
